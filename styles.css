@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.header, .footer {
+
+font-family: 'Poppins', sans-serif;
+    background-color: #E5E9FD;
+    color: #171D3A;
+    text-align: left;
+    padding: 10px 5px;
+    margin: 0;
+}
+
+h1, p {
+    padding-left: 20px;
+
+}
